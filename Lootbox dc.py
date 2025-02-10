@@ -1,9 +1,3 @@
-senha=int(input('Digite a senha:'))
-if senha == 147123:
-    print('Acesso liberado! \n')
-else:
-    print(exit('Senha errada!'))
-
 # pip install discord.py
 
 import discord
